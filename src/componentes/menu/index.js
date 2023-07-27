@@ -12,7 +12,7 @@ import styles from "./menu.module.css"
                         Início
                     </MenuLink>
                     <MenuLink to="/sobremim">
-                        Sobre Nos
+                        Sobre Nós
                     </MenuLink>
                 </nav>
             </header>
