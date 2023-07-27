@@ -1,0 +1,11 @@
+.link {
+    font-size: 2rem;
+    line-height: 1.5rem;
+    size:7em;
+    color: var(--cor-fonte-principal);
+    
+
+}
+.link_destacado{
+    text-decoration: underline;
+}
